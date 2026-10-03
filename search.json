@@ -2,8 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "John Zito",
     "section": "",
-    "text": "Hello World"
+    "text": "I am Bayesian statistician with a specialty in time series analysis, and I am passionate about undergraduate research and teaching. Before coming to Duke, I earned my bachelors degree in mathematics from Kenyon College and my PhD in statistics from Rice University. In between I worked as a research analyst at the Federal Reserve Bank of Cleveland (my hometown).\nMy full cv is here."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "John Zito",
+    "section": "Teaching",
+    "text": "Teaching\nDuke University:\n\nSTA 101 Data Analysis and Statistical Inference (Fall 2024, Fall 2026);\nSTA 199 Data Science and Statistical Thinking (Spring 2025, Spring 2026);\nSTA 240 Probability for Statistical Inference (Spring 2025, Fall 2025, Fall 2026);\nSTA 440 Case Studies in the Practice of Statistics (Spring 2026);\nSTA 542 Introduction to Time Series Analysis (Fall 2025).\n\nRice University:\n\nSTAT 310 Probability and Statistics (Summer 2020, Summer 2022);\nSTAT 311 Honors Probability and Statistics (Fall 2021, Spring 2022)."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "John Zito",
+    "section": "Research",
+    "text": "Research\n\nZito, John and Daniel Kowal (in preparation): “Bayesian inference for time series on the Stiefel manifold;”\nZito, John and Daniel Kowal (forthcoming): “The projected dynamic linear model for time series on the sphere,” Bayesian Analysis, doi: 10.1214/26-BA1595;\nZito, John and Daniel Kowal (2025): “A dynamic copula model for probabilistic forecasting of non-Gaussian multivariate time series,” arXiv: 2502.16874;\nChiang, Sharon, John Zito, Vikram Rao, and Marina Vannucci (2024): “Time-series analysis,” Chapter 8 in Statistical Methods in Epilepsy. CRC Press;\nBognanni, Mark and John Zito (2020): “Sequential Bayesian inference for vector autoregressions with stochastic volatility,” Journal of Economic Dynamics and Control, vol. 113, doi: 10.1016/j.jedc.2020.103851;\nBognanni, Mark and John Zito (2016): “New normal or real-time noise? Revisiting the recent data on labor productivity,” FRBC Economic Commentary, doi: 10.26509/frbc-ec-201616."
   }
 ]
